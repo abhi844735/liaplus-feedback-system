@@ -2,10 +2,6 @@
 
 A full-stack MERN application for collecting and displaying user feedback with advanced filtering and search capabilities.
 
-## Live Demo
-
-[View Live Demo](https://github.com/abhi844735/liaplus-feedback-system.git)
-
 ## Features
 
 - **User-friendly Feedback Submission**: Intuitive form with validation
