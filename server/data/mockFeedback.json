@@ -1,0 +1,107 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "feedbackText": "The application is very intuitive and easy to use. I especially like the dashboard filtering options.",
+    "category": "Suggestion",
+    "createdAt": "2023-10-15T08:30:00.000Z"
+  },
+  {
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com",
+    "feedbackText": "I encountered a bug when trying to sort feedback by date on the dashboard. Sometimes it doesn't update correctly.",
+    "category": "Bug Report",
+    "createdAt": "2023-10-14T14:22:00.000Z"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.b@example.com",
+    "feedbackText": "It would be great if you could add a dark mode option for the interface. This would be much easier on the eyes during night time.",
+    "category": "Feature Request",
+    "createdAt": "2023-10-13T19:45:00.000Z"
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.j@example.com",
+    "feedbackText": "I love the application's design. Very clean and professional!",
+    "category": "Other",
+    "createdAt": "2023-10-12T11:10:00.000Z"
+  },
+  {
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "feedbackText": "Could you add a feature to export feedback data to CSV or Excel? This would be useful for our analytics team.",
+    "category": "Feature Request",
+    "createdAt": "2023-10-11T16:05:00.000Z"
+  },
+  {
+    "name": "Lisa Chen",
+    "email": "lisa.chen@example.com",
+    "feedbackText": "The feedback form doesn't validate email addresses properly. I was able to submit with an invalid format.",
+    "category": "Bug Report",
+    "createdAt": "2023-10-10T09:30:00.000Z"
+  },
+  {
+    "name": "Robert Garcia",
+    "email": "robert.g@example.com",
+    "feedbackText": "Your application has significantly improved our customer feedback process. Thank you!",
+    "category": "Other",
+    "createdAt": "2023-10-09T13:45:00.000Z"
+  },
+  {
+    "name": "Jennifer White",
+    "email": "jennifer.w@example.com",
+    "feedbackText": "I think adding user authentication would make the system more secure and allow for tracking who submitted what feedback.",
+    "category": "Suggestion",
+    "createdAt": "2023-10-08T15:20:00.000Z"
+  },
+  {
+    "name": "Thomas Wilson",
+    "email": "thomas.w@example.com",
+    "feedbackText": "The dashboard loads very slowly when there are many feedback entries. Could you optimize it?",
+    "category": "Bug Report",
+    "createdAt": "2023-10-07T10:15:00.000Z"
+  },
+  {
+    "name": "Patricia Martin",
+    "email": "patricia.m@example.com",
+    "feedbackText": "Adding a rating system (1-5 stars) along with text feedback would provide more quantitative data.",
+    "category": "Feature Request",
+    "createdAt": "2023-10-06T14:50:00.000Z"
+  },
+  {
+    "name": "James Johnson",
+    "email": "james.j@example.com",
+    "feedbackText": "The ability to categorize feedback is extremely helpful for our product team!",
+    "category": "Suggestion",
+    "createdAt": "2023-10-05T11:25:00.000Z"
+  },
+  {
+    "name": "Maria Rodriguez",
+    "email": "maria.r@example.com",
+    "feedbackText": "There's a display issue on mobile devices. The form doesn't resize properly on smaller screens.",
+    "category": "Bug Report",
+    "createdAt": "2023-10-04T16:40:00.000Z"
+  },
+  {
+    "name": "Andrew Taylor",
+    "email": "andrew.t@example.com",
+    "feedbackText": "Could you implement a notification system that alerts administrators when new feedback is submitted?",
+    "category": "Feature Request",
+    "createdAt": "2023-10-03T08:55:00.000Z"
+  },
+  {
+    "name": "Elizabeth Clark",
+    "email": "elizabeth.c@example.com",
+    "feedbackText": "The color scheme is pleasant and creates a positive user experience.",
+    "category": "Other",
+    "createdAt": "2023-10-02T12:30:00.000Z"
+  },
+  {
+    "name": "Kevin Lewis",
+    "email": "kevin.l@example.com",
+    "feedbackText": "I suggest adding a FAQ section to help users understand how their feedback will be used.",
+    "category": "Suggestion",
+    "createdAt": "2023-10-01T09:15:00.000Z"
+  }
+] 
